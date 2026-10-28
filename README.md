@@ -6,15 +6,14 @@
   <img src="https://raw.githubusercontent.com/rezasouri/rezasouri/main/assets/profile-header-light.svg" width="100%" alt="Reza Souri — AI Engineer and Python Developer specializing in machine learning, computer vision, speech AI and developer tools.">
 </picture>
 
-# Reza Souri
-
-**AI & Machine Learning Engineer | Python Developer**
-
-Building practical AI applications, speech processing pipelines, computer vision systems, and open-source developer tools.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reza-souri-320235161/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rezasouri654@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-rezasouri-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rezasouri)
+<h1>Reza Souri</h1>
+<p><strong>AI &amp; Machine Learning Engineer | Python Developer</strong></p>
+<p>Building practical AI applications, speech processing pipelines, computer vision systems, and open-source developer tools.</p>
+<p>
+<a href="https://www.linkedin.com/in/reza-souri-320235161/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn"></a>
+<a href="mailto:rezasouri654@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Contact by email"></a>
+<a href="https://github.com/rezasouri"><img src="https://img.shields.io/badge/GitHub-rezasouri-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub profile"></a>
+</p>
 
 </div>
 
