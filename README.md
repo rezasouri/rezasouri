@@ -1,10 +1,10 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rezasouri/rezasouri/main/assets/profile-header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rezasouri/rezasouri/main/assets/profile-header-light.svg">
+  <img src="https://raw.githubusercontent.com/rezasouri/rezasouri/main/assets/profile-header-light.svg" width="100%" alt="Reza Souri — AI Engineer and Open Source Developer. Building intelligent systems and developer tools.">
+</picture>
+
 <div align="center">
-
-# Reza Souri
-
-### AI Engineer · Machine Learning · Open Source
-
-Building practical AI systems, reliable ML pipelines, and developer tools.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reza-souri-320235161/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rezasouri654@gmail.com)
