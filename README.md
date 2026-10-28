@@ -1,10 +1,16 @@
+<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rezasouri/rezasouri/main/assets/profile-header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rezasouri/rezasouri/main/assets/profile-header-light.svg">
-  <img src="https://raw.githubusercontent.com/rezasouri/rezasouri/main/assets/profile-header-light.svg" width="100%" alt="Reza Souri — AI Engineer and Open Source Developer. Building intelligent systems and developer tools.">
+  <img src="https://raw.githubusercontent.com/rezasouri/rezasouri/main/assets/profile-header-light.svg" width="100%" alt="Reza Souri — AI Engineer and Python Developer specializing in machine learning, computer vision, speech AI and developer tools.">
 </picture>
 
-<div align="center">
+# Reza Souri
+
+**AI & Machine Learning Engineer | Python Developer**
+
+Building practical AI applications, speech processing pipelines, computer vision systems, and open-source developer tools.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reza-souri-320235161/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rezasouri654@gmail.com)
@@ -12,37 +18,50 @@
 
 </div>
 
----
+## About me
 
-### About me
+I'm **Reza Souri**, a Python-focused AI and software engineer interested in bringing machine learning research into usable applications. My work spans **deep learning, computer vision, natural language processing (NLP), speech and audio AI**, and modular software engineering.
 
-I'm a Python-focused AI and software engineer working across **machine learning, computer vision, speech processing, and AI-powered applications**. I enjoy turning experiments into usable tools, with a strong interest in modular architecture, reproducible workflows, and open-source development.
+I care about reproducible experiments, clear APIs, maintainable pipelines, and tools that other developers can run and extend. I'm also exploring **Retrieval-Augmented Generation (RAG)** and **large language model (LLM) application architectures**.
 
-- **AI & ML:** deep learning, computer vision, NLP, speech and audio processing
-- **Engineering:** Python applications, APIs, desktop tools, testing, and automation
-- **Current interests:** RAG and LLM systems, ML pipelines, developer productivity, and graph visualization
+## Featured AI & Python projects
 
-### Featured projects
+### [PodSieve — Speaker Diarization & Audio Processing](https://github.com/rezasouri/podsieve)
 
-| Project | What it does | Focus |
-| --- | --- | --- |
-| [**PodSieve**](https://github.com/rezasouri/podsieve) | A local-first desktop and CLI pipeline for vocal separation, speaker diarization, and preparing speaker-labeled audio datasets. | Speech AI · Python · PySide6 |
-| [**SnappFood Sentiment**](https://github.com/rezasouri/snapfood_sentiment) | A reproducible pilot for aspect-based review extraction, evidence validation, and local model evaluation. | NLP · LLM evaluation · Python |
-| [**Face Detection**](https://github.com/rezasouri/Face-Detection) | A microservices-based face detection and recognition workflow for video streams. | Computer Vision · FastAPI · Docker |
+A local-first desktop application and Python CLI for audio ingestion, vocal separation, **speaker diarization**, and speaker-labeled audio dataset preparation. Built around Python, PySide6/Qt, and machine learning models for speech processing.
 
-**Open-source exploration:** I'm also working on [a fork of Graphify](https://github.com/rezasouri/graphify), exploring 3D graph visualization for its HTML output.
+**Topics:** Speech AI · Speaker Diarization · Audio Separation · Python · PySide6
 
-### Technologies
+### [SnappFood Sentiment — NLP & LLM Evaluation](https://github.com/rezasouri/snapfood_sentiment)
 
-**AI / Data**  
-Python · PyTorch · TensorFlow · scikit-learn · OpenCV · Hugging Face · NumPy · pandas
+An aspect-based sentiment analysis and review extraction project with reproducible benchmark preparation, evidence-span validation, and a local inference pilot. It emphasizes evaluation and data quality rather than unverified model-accuracy claims.
 
-**Applications / Infrastructure**  
-FastAPI · PySide6 · Docker · Git · GitHub Actions · Linux
+**Topics:** Natural Language Processing · Aspect-Based Sentiment Analysis · LLM Evaluation · Python
 
-**Areas of interest**  
-Retrieval-Augmented Generation (RAG) · NLP · Speech AI · MLOps · Graph Visualization
+### [Face Detection — Computer Vision Microservices](https://github.com/rezasouri/Face-Detection)
 
-### Connect
+A video-processing workflow that uses face detection and recognition components across **FastAPI microservices**, with Docker-based deployment tooling.
 
-If you're interested in my work or want to discuss a technical project, reach me via [LinkedIn](https://www.linkedin.com/in/reza-souri-320235161/) or [email](mailto:rezasouri654@gmail.com).
+**Topics:** Computer Vision · Deep Learning · Face Detection · FastAPI · Docker
+
+### [Graphify — Open-Source Graph Visualization](https://github.com/rezasouri/graphify)
+
+My fork of the open-source Graphify project, where I'm exploring **3D graph visualization** for HTML-based graph views and developer workflows.
+
+**Topics:** Open Source · Graph Visualization · Python · Developer Tools
+
+## What I work with
+
+| Area | Technologies & interests |
+| --- | --- |
+| **Machine learning & deep learning** | PyTorch, TensorFlow, scikit-learn, model evaluation |
+| **Computer vision & data** | OpenCV, NumPy, pandas, image and video processing |
+| **NLP, LLMs & RAG** | Hugging Face Transformers, NLP pipelines, retrieval-augmented generation |
+| **Speech & audio AI** | Speaker diarization, audio separation, dataset preparation |
+| **Software engineering** | Python, FastAPI, PySide6/Qt, Git, Docker, GitHub Actions, Linux |
+
+## Open source & collaboration
+
+I enjoy developing practical tools, experimenting with new AI workflows, and contributing to open-source software. Browse [my GitHub repositories](https://github.com/rezasouri?tab=repositories) to see more Python, ML, and software projects.
+
+Have a question about a project or want to collaborate on AI engineering, computer vision, or speech processing? Reach out on [LinkedIn](https://www.linkedin.com/in/reza-souri-320235161/) or by [email](mailto:rezasouri654@gmail.com).
